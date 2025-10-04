@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 21f7c61676a1acf206837a85718c91ad2e17b8a6 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759401378 +0200	commit (initial): Event organzation website
+21f7c61676a1acf206837a85718c91ad2e17b8a6 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759401856 +0200	Branch: renamed refs/heads/master to refs/heads/master
+21f7c61676a1acf206837a85718c91ad2e17b8a6 21f7c61676a1acf206837a85718c91ad2e17b8a6 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759401856 +0200	Branch: renamed refs/heads/master to refs/heads/master
+21f7c61676a1acf206837a85718c91ad2e17b8a6 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759402076 +0200	Branch: renamed refs/heads/master to refs/heads/master
+21f7c61676a1acf206837a85718c91ad2e17b8a6 21f7c61676a1acf206837a85718c91ad2e17b8a6 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759402076 +0200	Branch: renamed refs/heads/master to refs/heads/master
+21f7c61676a1acf206837a85718c91ad2e17b8a6 5da681188246990146a8709ab7756bef196c20fb youlsoftware14 <yssoufsoulama140586@gmail.com> 1759415947 +0200	commit: Initial commit
+5da681188246990146a8709ab7756bef196c20fb 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759416171 +0200	Branch: renamed refs/heads/master to refs/heads/master
+5da681188246990146a8709ab7756bef196c20fb 5da681188246990146a8709ab7756bef196c20fb youlsoftware14 <yssoufsoulama140586@gmail.com> 1759416171 +0200	Branch: renamed refs/heads/master to refs/heads/master
+5da681188246990146a8709ab7756bef196c20fb 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759416670 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 5da681188246990146a8709ab7756bef196c20fb youlsoftware14 <yssoufsoulama140586@gmail.com> 1759416670 +0200	Branch: renamed refs/heads/master to refs/heads/main
+5da681188246990146a8709ab7756bef196c20fb 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759416945 +0200	Branch: renamed refs/heads/main to refs/heads/main
+5da681188246990146a8709ab7756bef196c20fb 5da681188246990146a8709ab7756bef196c20fb youlsoftware14 <yssoufsoulama140586@gmail.com> 1759416945 +0200	Branch: renamed refs/heads/main to refs/heads/main
+5da681188246990146a8709ab7756bef196c20fb 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759417229 +0200	Branch: renamed refs/heads/main to refs/heads/main
+5da681188246990146a8709ab7756bef196c20fb 5da681188246990146a8709ab7756bef196c20fb youlsoftware14 <yssoufsoulama140586@gmail.com> 1759417229 +0200	Branch: renamed refs/heads/main to refs/heads/main
+5da681188246990146a8709ab7756bef196c20fb 4ba0419a895c79f6d65f34f6a2c24567864addc6 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759417632 +0200	commit: Remove .env file and add to .gitignore
+4ba0419a895c79f6d65f34f6a2c24567864addc6 5da681188246990146a8709ab7756bef196c20fb youlsoftware14 <yssoufsoulama140586@gmail.com> 1759418984 +0200	reset: moving to HEAD~1
+5da681188246990146a8709ab7756bef196c20fb 3974ce63efceffc0b3e215d65354999758f09b2d youlsoftware14 <yssoufsoulama140586@gmail.com> 1759419020 +0200	commit: Remove .env
+3974ce63efceffc0b3e215d65354999758f09b2d 8984b583f00b826efb59f57d137d3187fe2c5d91 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759483868 +0200	commit: first commit
+8984b583f00b826efb59f57d137d3187fe2c5d91 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759483938 +0200	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 8984b583f00b826efb59f57d137d3187fe2c5d91 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759483938 +0200	Branch: renamed refs/heads/main to refs/heads/master
+8984b583f00b826efb59f57d137d3187fe2c5d91 13c4899af42009de5b58826cb3309ee145b8dc50 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759485477 +0200	commit: Add .gitignore and remove sensitive files
+13c4899af42009de5b58826cb3309ee145b8dc50 fa2949b9fecfcdf83b6464b412e99ee185013b92 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759488004 +0200	commit: Initial commit
+fa2949b9fecfcdf83b6464b412e99ee185013b92 fa2949b9fecfcdf83b6464b412e99ee185013b92 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759508149 +0200	checkout: moving from master to dev
+fa2949b9fecfcdf83b6464b412e99ee185013b92 f9a6cb5de2179a5f00737410f376eeb0472c4a80 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759584999 +0200	pull origin master --allow-unrelated-histories: Merge made by the 'ort' strategy.
+f9a6cb5de2179a5f00737410f376eeb0472c4a80 a6a083f79033cd097232cd618dcf5700919de6a9 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759585962 +0200	commit: first commit
+a6a083f79033cd097232cd618dcf5700919de6a9 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759585986 +0200	Branch: renamed refs/heads/dev to refs/heads/master
+0000000000000000000000000000000000000000 a6a083f79033cd097232cd618dcf5700919de6a9 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759585986 +0200	Branch: renamed refs/heads/dev to refs/heads/master
+a6a083f79033cd097232cd618dcf5700919de6a9 1ff92c45670f95d4a4e4137aded4bc9a0d62c565 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759586812 +0200	commit: first commit
+1ff92c45670f95d4a4e4137aded4bc9a0d62c565 0000000000000000000000000000000000000000 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759586961 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 1ff92c45670f95d4a4e4137aded4bc9a0d62c565 youlsoftware14 <yssoufsoulama140586@gmail.com> 1759586961 +0200	Branch: renamed refs/heads/master to refs/heads/main
